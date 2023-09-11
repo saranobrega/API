@@ -1,5 +1,7 @@
 # API-Explorations
-A collection of notebooks showcasing various API interactions 
+A collection of notebooks and scripts showcasing various API interactions 
+
+Content:
 
 ## BankAPI 
 
