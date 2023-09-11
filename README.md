@@ -1,7 +1,7 @@
 # API-Explorations
-A collection of notebooks and scripts showcasing various API interactions 
+A collection of notebooks and scripts showcasing various API interactions.
 
-Content:
+- Python, Flask, Docker, MongoDB
 
 ## BankAPI 
 
@@ -50,6 +50,11 @@ uvicorn app:app
   "amount": 100
 }
 ```
+
+![Python](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1890)
+
+
+
 ## Featured Notebooks:
 **GitHub Repository Data Collection:**
 This notebook demonstrates how to fetch repository data from a GitHub user profile. It covers:
